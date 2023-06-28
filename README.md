@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Savanvaghasiya75
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...red and white institute
+- 🌱 Bachelor completely in C.b patel computer collage.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
